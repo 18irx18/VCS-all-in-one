@@ -1,0 +1,47 @@
+INFO:root:Server started on port 10001. Waiting for connections...
+INFO:root:Accepted connection from ('127.0.0.1', 56934)
+INFO:root:Server started on port 10001. Waiting for connections...
+INFO:root:Accepted connection from ('127.0.0.1', 56964)
+ERROR:root:Connection reset: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+INFO:root:Server started on port 10001. Waiting for connections...
+INFO:root:Accepted connection from ('127.0.0.1', 56978)
+INFO:root:Accepted connection from ('127.0.0.1', 56998)
+INFO:root:Accepted connection from ('127.0.0.1', 56999)
+ERROR:root:Connection reset: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+ERROR:root:Connection reset: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+INFO:root:Server started on port 10002. Waiting for connections...
+INFO:root:Accepted connection from ('127.0.0.1', 57002)
+INFO:root:Accepted connection from ('127.0.0.1', 57010)
+INFO:root:Accepted connection from ('127.0.0.1', 57012)
+INFO:root:Accepted connection from ('127.0.0.1', 57014)
+ERROR:root:Connection reset: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+ERROR:root:Connection reset: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+ERROR:root:Connection reset: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+INFO:root:Server started on port 10003. Waiting for connections...
+INFO:root:Accepted connection from ('127.0.0.1', 57017)
+INFO:root:Server started on port 10001. Waiting for connections...
+INFO:root:Accepted connection from ('127.0.0.1', 57080)
+ERROR:root:Connection reset: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+INFO:root:Server started on port 10001. Waiting for connections...
+INFO:root:Accepted connection from ('127.0.0.1', 58796)
+ERROR:root:Connection reset: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+INFO:root:Server started on port 10001. Waiting for connections...
+INFO:root:Accepted connection from ('127.0.0.1', 58822)
+ERROR:root:Connection reset: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+INFO:root:Server started on port 10001. Waiting for connections...
+INFO:root:Accepted connection from ('127.0.0.1', 58881)
+ERROR:root:Connection reset: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+INFO:root:Server started on port 10001. Waiting for connections...
+INFO:root:Accepted connection from ('127.0.0.1', 58942)
+ERROR:root:Connection reset: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+INFO:root:Server started on port 10001. Waiting for connections...
+INFO:root:Accepted connection from ('127.0.0.1', 58972)
+ERROR:root:Connection reset: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+INFO:root:Server started on port 10001. Waiting for connections...
+INFO:root:Accepted connection from ('127.0.0.1', 59167)
+ERROR:root:Connection reset: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+INFO:root:Server started on port 10001. Waiting for connections...
+INFO:root:Accepted connection from ('127.0.0.1', 59177)
+ERROR:root:Connection reset: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+INFO:root:Server started on port 10001. Waiting for connections...
+INFO:root:Accepted connection from ('127.0.0.1', 59237)
